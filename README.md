@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clarazen.
-- 👀 I’m interested in Green AI, Gaussian processes and tensor networks.
-- 🌱 I’m mainly coding in the Julia programming language.
+- 👀 I’m interested in Green AI, large-scale probabilistic modeling for sensor fusion and generative AI.
+- 🌱 I’m mainly coding in the Julia programming language and Python.
 - 📫 How to reach me: cm.menzen@gmail.com
 
 <!---
